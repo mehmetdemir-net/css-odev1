@@ -1,0 +1,53 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.site-logo {
+    width: 60px;
+    float: left;
+
+}
+body {
+  width: 100%;
+}
+
+.div-logo {
+    
+    color: #22577E;
+    float: left;
+    margin: 20px 200px 40px 12px;
+    text-align: center;
+} 
+
+.menu {
+  float: left;
+  margin: 20px 5px 0 10px ;
+  text-align: relative;
+
+}
+
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #22577E;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+
+article {
+   max-width: 800px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
